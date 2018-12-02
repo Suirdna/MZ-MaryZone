@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry including="background.png|favicon.png|main_3_window/|main_change/|main_login/|main_message_window/|main_registration/|main_remember/|main_window/" kind="src" path="foundation"/>
+	<classpathentry including="client.png|func_acc_h.png|func_acc_n.png|func_acc_s.png|func_dec_h.png|func_dec_n.png|func_dec_s.png|func_req_h.png|func_req_n.png|func_req_s.png|func_suc.png|func_uns.png|logo_panel_image.png|main_mdl/|menu_mdl/|reg_mdl/|server.png|user_messages.png|user_messages_h.png|user_password_c.png|user_password_c_h.png|user_warnings.png|user_warnings_h.png|user_warnings_s.png|user_write_h.png|user_write_n.png" kind="src" path="functions_buttons"/>
+	<classpathentry including="city_mdl/|country_mdl/|search_1_e.png|search_2_e.png" kind="src" path="function_search_elements"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="engines/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="engines/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

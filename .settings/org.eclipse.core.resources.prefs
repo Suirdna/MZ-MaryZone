@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/adv_tableModel/adv_renderer.java=UTF-8
+encoding//src/engines/clientConfiguration.java=UTF-8
+encoding//src/guest_stage/function_loginwindow.java=UTF-8
+encoding//src/guest_stage/function_registrationwindow.java=UTF-8
+encoding//src/guest_stage/function_rememberwindow.java=UTF-8
+encoding//src/gui_renderers/comboBoxCountryRenderer.java=UTF-8
+encoding//src/gui_renderers/comboBoxPrice.java=UTF-8
+encoding//src/gui_renderers/comboBoxWeight.java=UTF-8
+encoding//src/user_stage/function_mainwindow.java=UTF-8
